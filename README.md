@@ -1,5 +1,5 @@
 # sabanci-it526-notes
-My Notes on Enterprise Java Course
+## My Notes on Enterprise Java Course
 
 - JPA nedir?
 
